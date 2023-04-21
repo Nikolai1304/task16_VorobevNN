@@ -36,6 +36,9 @@ for i in range(N):
         i+=1
         print(min)
   
+#НЕ РАБОТАЕТ
+  
+  
 # for i in my_list:
 #     if my_list[i]<= my_list[0]:
 #         min = my_list[i]
